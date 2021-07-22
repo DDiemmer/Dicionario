@@ -1,0 +1,44 @@
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\bin\Debug\LetsTalkAbout.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\bin\Debug\LetsTalkAbout.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.Properties.Resources.resources
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.Form1.resources
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\bin\Debug\LetsTalkAbout.exe
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\bin\Debug\LetsTalkAbout.pdb
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csprojResolveAssemblyReference.cache
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.Form1.resources
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.Properties.Resources.resources
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.GenerateResource.Cache
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.CoreCompileInputs.cache
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.exe
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.pdb
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\bin\Debug\LetsTalkAbout.exe
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\bin\Debug\LetsTalkAbout.pdb
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.Form1.resources
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.Properties.Resources.resources
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.GenerateResource.Cache
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.CoreCompileInputs.cache
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.exe
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.pdb
+D:\Project VS Testes\VS Projects\Projects\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.csprojResolveAssemblyReference.cache
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\bin\Debug\LetsTalkAbout.exe
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\bin\Debug\LetsTalkAbout.pdb
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.AssemblyReference.cache
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.Form1.resources
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.Properties.Resources.resources
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.GenerateResource.cache
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.CoreCompileInputs.cache
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.exe
+C:\Users\ddiem\Downloads\LetsTalkAboutCassel\LetsTalkAboutCassel\LetsTalkAbout\obj\Debug\LetsTalkAbout.pdb
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\bin\Debug\Dicionario.exe
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\bin\Debug\Dicionario.pdb
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.AssemblyReference.cache
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.Form1.resources
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\Dicionario.Properties.Resources.resources
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.GenerateResource.cache
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\LetsTalkAbout.csproj.CoreCompileInputs.cache
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\Dicionario.exe
+D:\DevStuffs\Desenv\LetsTalkAbout\LetsTalkAbout\obj\Debug\Dicionario.pdb
